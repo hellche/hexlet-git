@@ -1,2 +1,1 @@
-Hello, Hexlet!
-git push -u origin main
+Hello, Hexlet! How are you?
